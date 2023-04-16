@@ -1,0 +1,34 @@
+{
+  "name": "amznmonitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cacheable-lookup": "^7.0.0",
+    "cacheable-request": "^10.2.5",
+    "decompress-response": "^6.0.0",
+    "defer-to-connect": "^2.0.1",
+    "discord-webhook-node": "^1.1.8",
+    "form-data-encoder": "^2.1.4",
+    "get-stream": "^6.0.1",
+    "got": "^12.5.3",
+    "http-cache-semantics": "^4.1.0",
+    "http2-wrapper": "^2.2.0",
+    "json-buffer": "^3.0.1",
+    "keyv": "^4.5.2",
+    "lowercase-keys": "^3.0.0",
+    "mimic-response": "^4.0.0",
+    "node-html-parser": "^6.1.4",
+    "normalize-url": "^8.0.0",
+    "p-cancelable": "^3.0.0",
+    "prompt-sync": "^4.2.0",
+    "quick-lru": "^5.1.1",
+    "resolve-alpn": "^1.2.1",
+    "responselike": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
